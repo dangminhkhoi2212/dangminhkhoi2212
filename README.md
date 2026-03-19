@@ -49,10 +49,10 @@
 <table style="width: 100%; border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhkhoi2212&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhkhoi2212&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="200" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dangminhkhoi2212&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dangminhkhoi2212&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
     </td>
   </tr>
 </table>
