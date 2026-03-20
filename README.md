@@ -16,11 +16,9 @@
 <a href="https://github.com/dangminhkhoi2212" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/dangminhkhoi2212" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
 <a href="mailto:dmkhoi2212@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -29,41 +27,34 @@
     <img src="https://img.shields.io/badge/GPA-3.56%20%2F%204.0-success?style=flat-square&logo=google-scholar" />
 </div>
 
+**STACK**
 
-<sub>**STACK**</sub>
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,vite,nestjs,express,supabase,postgres,flutter,github,git,docker,figma)](https://skillicons.dev)
-
-
-**TOOLS**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=zustand,react,nextjs,ts,tailwind,redux,vite,nestjs,express,supabase,postgres,flutter,github,git,docker,figma,python,zed,postman,apidog,api,npm)
 
 ---
 
-<sub>**STATS**</sub>
+**STATS**
 
-<table style="width: 100%; border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhkhoi2212&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="200" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dangminhkhoi2212&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
-    </td>
-  </tr>
-</table>
+<div align="center" width="100%">
+    <table >
+     <tr>
+        <td><b>Language</b></td>
+        <td><b>Contribution</b></td>
+     </tr>
+     <tr>
+       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangminhkhoi2212&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"  /></td>
+        <td> <img src="https://github-readme-streak-stats.herokuapp.com?user=dangminhkhoi2212&theme=tokyonight&hide_border=true&border_radius=10" /></td>
+     </tr>
+    </table>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangminhkhoi2212&theme=tokyo-night&hide_border=true&area=true&border_radius=40"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangminhkhoi2212&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+
+
 
 ---
 
-<sub>**CONTRIBUTIONS**</sub>
+**CONTRIBUTIONS**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dangminhkhoi2212/dangminhkhoi2212/output/github-snake-dark.svg" />
